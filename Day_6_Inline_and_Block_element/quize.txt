@@ -1,0 +1,1 @@
+1. without using br tag, write a vertically alligned from asking form name city and pincode of a user
